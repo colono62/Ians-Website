@@ -1,0 +1,89 @@
+html {background-color: black;}
+#navegacion {position: sticky;
+padding: 5px;
+top: 0;
+float: left}
+ul#navlinks {list-style-type: none;
+margin: 0;
+padding: 0;
+color: yellow}
+h1 {color:yellow;
+    text-align: center;
+    height: 100px;
+    width: auto;
+    background-image: url(https://cdn.pixabay.com/photo/2016/02/03/08/32/banner-1176676_1280.jpg);
+margin: auto;
+padding: 10px}
+#logo {float: right;
+margin-top: 10px}
+#container {border: solid yellow;
+    background-color: #414a4c;
+margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+width: 700px;
+height: auto;
+padding: 10px}
+#AboutMe {color: yellow;
+text-align: center;
+height: auto;
+width: auto;
+border: 0px solid blue; box-shadow: 0 3px 3px white, 0 10px 15px white inset; border-radius: 4px;}
+#thor {max-width: 40%;
+height: auto;
+margin-top: 10px;
+margin-bottom: 10px}
+#MyBook {color: yellow;
+text-align: center;
+height: auto;
+width: auto;
+border: 0px solid blue; box-shadow: 0 3px 3px salmon, 0 10px 15px salmon inset; border-radius: 4px}
+#bookimage {display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 10px}
+.editlinks {text-decoration: none;
+    color: salmon}
+footer {position: absolute;
+    color: white;
+border: solid yellow;
+    margin: 5px 5px;}
+#bookcaption {text-decoration: underline}
+.editlinks:hover {text-decoration: underline}
+audio {filter: sepia(100) saturate(9);
+    width: 200px;
+    height: 20px;}
+#Testimony {color: yellow;
+text-align: center;
+height: auto;
+width: auto;
+border: 0px solid blue; box-shadow: 0 3px 3px blue, 0 10px 15px blue inset; border-radius: 4px;}
+#Testimonyul {list-style-position: inside}
+#Testimonyimage {max-width: 45%;
+height: auto;
+margin-bottom: 10px}
+#ideas {color: yellow;
+text-align: center;
+height: auto;
+width: auto;
+border: 0px solid blue; box-shadow: 0 3px 3px purple, 0 10px 15px purple inset; border-radius: 4px;}
+#IdeasImage {text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 40%;
+height: auto;
+margin-top: 10px;
+margin-bottom: 10px}
+#resources {color: yellow;
+text-align: center;
+height: auto;
+width: auto;
+border: 0px solid blue; box-shadow: 0 3px 3px red, 0 10px 15px red inset; border-radius: 4px;}
+#brain {max-width: 45%;
+height: auto;
+margin-bottom: 10px}
+#contact {position:absolute; right:10px; bottom:100px;
+    color: white;
+border: solid yellow;}
+
